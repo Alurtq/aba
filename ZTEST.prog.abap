@@ -1,0 +1,8 @@
+REPORT ZH_TEST.
+
+DATA: cdate TYPE sy-datum. 
+
+START-OF_SELECTION.
+
+END-OF-SELECTION.
+
